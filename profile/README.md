@@ -21,7 +21,8 @@ Many APIs exist without proper tooling.
 
 ## 📦 Available SDK Services
 
-[📨 Mailcow SDKs](https://github.com/orgs/community-sdks/repositories?q=mailcow)
+[📨 Mailcow](https://github.com/orgs/community-sdks/repositories?q=mailcow)
+[📨 Godaddy](https://github.com/orgs/community-sdks/repositories?q=godaddy)
 
 <br/><br/>
 
@@ -72,5 +73,6 @@ Open an issue • Submit a PR • Propose a new service
 
 **Community SDKs**  
 Open. Structured. Practical.
+
 
 </div>
