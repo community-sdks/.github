@@ -54,7 +54,7 @@ All SDKs grouped by language:
 
 <br/>
 
-### [🐘 PHP SDKs](https://github.com/orgs/community-sdks/repositories?q=php) • [🐍 Python SDKs](https://github.com/orgs/community-sdks/repositories?q=py) • [🟦 Go SDKs](https://github.com/orgs/community-sdks/repositories?q=go) • [🟨 JavaScript SDKs](https://github.com/orgs/community-sdks/repositories?q=js) • [🔷 TypeScript SDKs](https://github.com/orgs/community-sdks/repositories?q=ts) • [🦀 Rust SDKs](https://github.com/orgs/community-sdks/repositories?q=rust) • [☕ Java SDKs](https://github.com/orgs/community-sdks/repositories?q=java) • [🔵 C# SDKs](https://github.com/orgs/community-sdks/repositories?q=csharp) • [⚙️ C++ SDKs](https://github.com/orgs/community-sdks/repositories?q=cpp) • [🔧 C SDKs](https://github.com/orgs/community-sdks/repositories?q=c)
+### [🐘 PHP](https://github.com/orgs/community-sdks/repositories?q=php) • [🐍 Python](https://github.com/orgs/community-sdks/repositories?q=py) • [🟦 Go](https://github.com/orgs/community-sdks/repositories?q=go) • [🟨 JavaScript](https://github.com/orgs/community-sdks/repositories?q=js) • [🔷 TypeScript](https://github.com/orgs/community-sdks/repositories?q=ts) • [🦀 Rust](https://github.com/orgs/community-sdks/repositories?q=rust) • [☕ Java](https://github.com/orgs/community-sdks/repositories?q=java) • [🔵 C#](https://github.com/orgs/community-sdks/repositories?q=csharp) • [⚙️ C++](https://github.com/orgs/community-sdks/repositories?q=cpp) • [🔧 C](https://github.com/orgs/community-sdks/repositories?q=c)
 
 
 <br/>
