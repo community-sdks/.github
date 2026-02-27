@@ -5,13 +5,7 @@
 ### A curated collection of community-maintained Software Development Kits  
 Bringing missing SDKs to life — clean, structured, and production-ready.
 
-</div>
-
-<br/>
-
-<table align="center" width="800">
-<tr>
-<td align="center">
+<br/><br/>
 
 ## 🚀 What is Community SDKs?
 
@@ -23,29 +17,13 @@ for services that **do not yet have official implementations**.
 Many APIs exist without proper tooling.  
 **If an SDK does not exist — we build it.**
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="800">
-<tr>
-<td align="center">
+<br/><br/>
 
 ## 📦 Available SDK Services
 
 [📨 Mailcow SDKs](https://github.com/orgs/community-sdks/repositories?q=mailcow)
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="800">
-<tr>
-<td align="center">
+<br/><br/>
 
 ## 🧑‍💻 Supported Programming Languages
 
@@ -60,15 +38,7 @@ Many APIs exist without proper tooling.
 [⚙️ C++](https://github.com/orgs/community-sdks/repositories?q=cpp) •
 [🔧 C](https://github.com/orgs/community-sdks/repositories?q=c)
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="800">
-<tr>
-<td align="center">
+<br/><br/>
 
 ## 🏗️ Project Philosophy
 
@@ -84,15 +54,7 @@ Many APIs exist without proper tooling.
 
 Every SDK is designed to feel native to its ecosystem.
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" width="800">
-<tr>
-<td align="center">
+<br/><br/>
 
 ## 🤝 Community Driven
 
@@ -100,17 +62,13 @@ Community maintained.
 Not officially affiliated unless explicitly stated.  
 Open for contributions.
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### 💡 Want to contribute?
 
 Open an issue • Submit a PR • Propose a new service  
+
+<br/>
 
 **Community SDKs**  
 Open. Structured. Practical.
