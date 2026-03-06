@@ -23,6 +23,7 @@ Many APIs exist without proper tooling.
 
 [📨 Mailcow](https://github.com/orgs/community-sdks/repositories?q=mailcow)
 [📨 Godaddy](https://github.com/orgs/community-sdks/repositories?q=godaddy)
+[📨 Slack](https://github.com/orgs/community-sdks/repositories?q=slack)
 
 <br/><br/>
 
@@ -76,3 +77,4 @@ Open. Structured. Practical.
 
 
 </div>
+
